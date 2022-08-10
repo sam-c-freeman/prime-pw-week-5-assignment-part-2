@@ -4,13 +4,16 @@ body {
     margin: 0;
 }
 
-header {
+.header {
     background-color: forestgreen;
     color: white;
     text-align: center;
 }
 
-main{
+.main {
     background-color: lightgray;
     padding: 1em;
 }
+
+/* The class descriptions are not super descriptive but I was unsure what to call them since there
+is not a lot of content.  Hope this is what you were looking for! */
